@@ -6,9 +6,9 @@
 window.EXAM_CONFIG = {
   // Tempel URL Web App Apps Script Anda di sini, contoh:
   // "https://script.google.com/macros/s/AKfycbx.../exec"
-  backendUrl: "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE",
+  backendUrl: "https://script.google.com/macros/s/AKfycbzJSPIIvnL0SzsYrcuzezyAVBBTbf8VaY_d9_EC-XqtRsw5PJFHajny5ExnfAS1V2-TIw/exec",
 
-  examTitle: "Ulangan Fisika — Oscillations, Ideal Gases & Thermal Properties",
+  examTitle: "QUIZ",
 
   // Berapa kali pelanggaran (total, semua jenis) sebelum ujian
   // seorang siswa otomatis dikumpulkan.
